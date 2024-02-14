@@ -11,3 +11,4 @@
         }
         t/=10;
     }
+   return smax;
